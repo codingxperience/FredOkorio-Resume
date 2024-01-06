@@ -2,20 +2,25 @@
 layout: resume
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+<p align="center" style="font-weight: bloder;">
+  <strong>Okorio Samson Fred</strong>
+</p>
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
+<p align="center">
+  <a href="write2fredokorio@gmail.com">write2fredokorio@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/fred-okorio-842194166/">LinkedIn</a>
+</p>
+
+<hr>
+
+
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
 
-`2025-2027`
+`2015-20`
 __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
